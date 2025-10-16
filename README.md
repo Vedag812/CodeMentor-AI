@@ -7,7 +7,6 @@
 
 > An intelligent programming tutor that uses **Retrieval-Augmented Generation (RAG)** to provide contextually-aware programming assistance with cited documentation sources.
 
-![CodeMentor Demo](screenshots/demo.png)
 
 ---
 
@@ -291,20 +290,6 @@ Hours/week: 10
 ```
 
 ---
-
-## 📸 Screenshots
-
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Q&A with RAG
-![Q&A System](screenshots/qa_system.png)
-
-### Code Review
-![Code Review](screenshots/code_review.png)
-
-### Exercise Generator
-![Exercise Generator](screenshots/exercise_generator.png)
 
 ---
 
